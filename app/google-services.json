@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201228874922",
+    "project_id": "group1-finalproject3itf",
+    "storage_bucket": "group1-finalproject3itf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201228874922:android:7424775f0582ccba140cd3",
+        "android_client_info": {
+          "package_name": "com.example.checkmateapp_grp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCarm-9ZP6AQmTkZp0da107_UXmz-PXCrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
